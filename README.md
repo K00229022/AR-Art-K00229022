@@ -1,1 +1,4 @@
 # AR-Art-K00229022
+
+The theme that I have based my AR Poster on is a Haunted House theme. In my poster there is a dark haunted house in the hills with a night sky. The user must put their phone in front of the poster and when this happens a ghost pops out in the phone screen.
+I developed the poster in Unity. I made the design for the poster using Adobe Illustrator and I was able to make it into a target using a Vuforia database and importing it then from unity. There were a lot of points shown on the image that were able to be detected when using a phone. When I finished making the game, I built it to work on an android phone. I tested the poster by using an android phone. When doing so, I scanned the QR code at the bottom right hand corner of the poster and it opened a link for the poster. Once I clicked the link, the apk loaded up and the camera opened. I then put the camera in front of the poster and shortly after a few seconds, the ghost appeared on the screen.
